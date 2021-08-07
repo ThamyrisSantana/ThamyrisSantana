@@ -1,4 +1,4 @@
-### Oie, eu sou a Thamyris 👋
+### Hi there, I'm Thamyris 👋
 
  <div>
   <a href="https://github.com/rafaballerini">
