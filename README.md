@@ -12,7 +12,7 @@
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img  height="120em" align="right" alt="" src="https://media.discordapp.net/attachments/721758603807293522/873597602527064064/giphy_1.gif">
+  <img  height="120em" align="right" alt="me" src="https://media.discordapp.net/attachments/721758603807293522/873928537910968331/eu.gif">
   
 </div>
 
