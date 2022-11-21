@@ -1,4 +1,4 @@
-### Hi there, I'm Thamyris 💜
+### Hi there 👋 I'm Thamyris 
 
  <div>
   <a href="https://github.com/ThamyrisSantana">
