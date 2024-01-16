@@ -15,9 +15,6 @@
   <img align="center" alt="styled-components" height="30" width="30" src="https://miro.medium.com/max/480/1*Iohnw2aOQ5EBghVoqKA7VA.png">
   <img align="center" alt="Saas" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
  <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-
-
-  <img  height="120em" align="right" alt="me" src="https://media.discordapp.net/attachments/721758603807293522/873928537910968331/eu.gif">
  
 </div>
 
